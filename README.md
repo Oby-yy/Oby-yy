@@ -1,10 +1,14 @@
-<img src="./banner.svg" alt="Oby" width="100%" />
+<p align="center">
+  <img src="./banner.svg" alt="Oby" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=A78BFA&width=600&lines=Full+Stack+Developer;Hoyoverse+Enjoyer;Root+%7C+Custom+ROM+%7C+Infinity+X" alt="typing" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Hoyoverse+Enjoyer;Root+%7C+Custom+ROM+%7C+Infinity+X" alt="typing" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Oby-yy&label=views&color=4c1d95&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Oby-yy?style=flat-square&color=4c1d95&labelColor=1e1b2e" />
-<img src="https://img.shields.io/github/stars/Oby-yy?style=flat-square&color=4c1d95&labelColor=1e1b2e" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oby-yy&label=views&color=4c1d95&style=flat-square" /> <img src="https://img.shields.io/github/followers/Oby-yy?style=flat-square&color=4c1d95&labelColor=1e1b2e" /> <img src="https://img.shields.io/github/stars/Oby-yy?style=flat-square&color=4c1d95&labelColor=1e1b2e" />
+</p>
 
 ---
 
@@ -57,9 +61,10 @@ Tools lain: Antigravity, OpenCode
 
 Mau collab atau sekadar ngobrol soal coding, game, atau custom ROM? Chat aja.
 
-<a href="https://github.com/Oby-yy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/Oby-yy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://discord.com/users/ID_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-<a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Oby-yy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://instagram.com/Oby-yy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> <a href="https://discord.com/users/ID_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a> <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<sub>Thanks udah mampir 💜</sub>
+---
+
+<p align="center">
+  <sub>Thanks udah mampir 💜</sub>
+</p>
